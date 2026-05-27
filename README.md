@@ -17,6 +17,9 @@ React 18 · Vite · Tailwind CSS · Axios · React Hook Form · MockAPI.io
 
  Clone the repo and install deps:
 ```bash
-   git clone https://github.com/zymmy5507/book-management/blob/main/README.md
+   git clone https://github.com/unforgettableg1/book-management.git
    cd book-management
    npm install
+
+## Project Live Line
+https://book-management-inky.vercel.app/
